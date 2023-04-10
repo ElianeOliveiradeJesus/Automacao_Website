@@ -1,7 +1,7 @@
 # Automacao_Website
 Automatizando o seu Login no Linkedin 
 
-<h1>Para rodar o projeto em sua máquina será necesário:</h1>
+<h1>Para rodar o projeto em sua máquina será necessário:</h1>
 
 <p>Baixar o Ruby versão 2.7.0 com DevKit https://rubyinstaller.org/downloads/</p>
 
